@@ -105,3 +105,5 @@ This folder contains all the `HTMl` code used to display all the visualizations 
 3. `school_state.html` webpage to display school locations by state.
 4. `references.html` webpage displaying libraries used in this project.
 5. `sliding_scale.html` webpage to display schools by sliding scale.
+
+#### Authored by: Roma Patel, Duyen Nguyen, Cesar Mosquera, Bill Bastan
